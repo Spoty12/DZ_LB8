@@ -32,8 +32,8 @@ S=\sin x+\sin(\sin x)+\ldots+
 
 ### Блок-схема
 
-![Блок-схема ](images/block_scheme.png)
-[Открыть блок-схему](images/block_scheme.png)
+![Блок-схема ](images/1234.PNG)
+[Открыть блок-схему](images/1234.PNG)
 
 ## 2. Реализация программы
 
